@@ -573,19 +573,21 @@ footer {
         flex-direction: column;
         gap: 1.5rem;
     }
+    
 }
 
-/* Media Query for Mobile Devices */
+/* Media Query for Mobile Devices 
 @media (max-width: 768px) {
     .college-card {
-        margin: 10px; /* Reduce margin on mobile */
+        margin: 10px; /* Reduce margin on mobile 
     }
 
     .college-content {
-        padding: 10px; /* Reduce padding on mobile */
+        padding: 10px; /* Reduce padding on mobile 
     }
 
     .college-rating {
-        font-size: 1em; /* Adjust font size for mobile */
+        font-size: 1em; /* Adjust font size for mobile 
     }
 }
+    */
